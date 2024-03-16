@@ -1,6 +1,6 @@
-# 3DMODEL Mini-Prog #1
+# 3DMODEL Mini-Prog
 
-Programming activity #1 for my 3DMODEL class.
+A repo for all programming activities of my 3DMODEL class.
 
 ## Installation
 Make sure you have `npm` installed.
